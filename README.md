@@ -1,5 +1,5 @@
 # onlineStore
-Java Project
+Java Project with Maven
 
 OnlineStore або "Інтернет магазин журналів"
 ТЗ:
